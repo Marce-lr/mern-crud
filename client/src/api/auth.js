@@ -1,6 +1,6 @@
 import axios from "./axios";
 
-const API = "http://localhost:4000/api";
+const API = "https://3.147.2.94/api";
 
 export const registerRequest = (user) => axios.post(`/register`, user);
 

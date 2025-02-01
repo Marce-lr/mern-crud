@@ -1,0 +1,36 @@
+[33mcommit 04174c02c0b81edb2f141e65af284aa3a980b41e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Andrea <marceitha123@gmail.com>
+Date:   Fri Jan 31 19:46:53 2025 -0600
+
+    cambios realizados
+
+[33mcommit e94d5aee254dd651d1ecd42e68cfb20634f986d4[m
+Author: Andrea <marceitha123@gmail.com>
+Date:   Fri Jan 31 19:37:27 2025 -0600
+
+    cambios realizados
+
+[33mcommit 4cecc8b6203f195660c7768ad00cc7ed1445a97a[m
+Author: Andrea <marceitha123@gmail.com>
+Date:   Fri Jan 31 18:28:17 2025 -0600
+
+    Actualizar URL del backend en el frontend
+
+[33mcommit e27951677bc683579290f449d2dac7e928397cce[m
+Merge: a52354b 4aa0f85
+Author: Andrea <marceitha123@gmail.com>
+Date:   Fri Jan 31 13:27:57 2025 -0600
+
+    Merge branch 'main' of https://github.com/Marce-lr/mern-crud-auth
+
+[33mcommit a52354bc714ad97e6f0dbab0f9b62e5e670a8b0d[m
+Author: Andrea <marceitha123@gmail.com>
+Date:   Fri Jan 31 13:26:15 2025 -0600
+
+    Initial commit
+
+[33mcommit 4aa0f859b9ac2f769ff6577769b56554762c6d4a[m
+Author: Andrea <163354639+Marce-lr@users.noreply.github.com>
+Date:   Fri Jan 31 13:20:21 2025 -0600
+
+    Initial commit
